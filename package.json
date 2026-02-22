@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "processor.js",
   "scripts": {
+    "start": "node processor.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
